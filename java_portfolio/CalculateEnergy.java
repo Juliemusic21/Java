@@ -1,6 +1,5 @@
 /**
  * /Julie Sakai
- * 8/25/24
  * Module 2 Programming Assignment
 */
 
