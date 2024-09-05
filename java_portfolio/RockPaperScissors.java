@@ -1,6 +1,5 @@
 /**
  * /Julie Sakai
- * 8/31/24
  * Module 3 Assignment
 */
 
